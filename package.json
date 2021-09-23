@@ -2,10 +2,10 @@
   "name": "my-current-music",
   "version": "1.0.0",
   "description": "An Node app just to save the current playing music on Spotify through IFTTT services.",
-  "main": "server.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
